@@ -175,3 +175,7 @@ body{
 #leave-btn{
     background-color: rgb(255, 80, 80, 1);
 }
+
+#screen-sharing{
+    background-color: green;
+}
